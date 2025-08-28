@@ -3,6 +3,7 @@
 Unity로 제작한 ATM 입출금/송금 시스템 프로젝트입니다.  
 유저 데이터 저장, 입출금, 송금, 로그인/회원가입까지 구현되었습니다.  
 
+![Animation](https://github.com/user-attachments/assets/a10e450e-1015-456e-9107-4db6cb4d56fe)
 ---
 
 ## 📌 구현 단계
@@ -99,15 +100,15 @@ Unity로 제작한 ATM 입출금/송금 시스템 프로젝트입니다.
 
 | STEP | 설명 | 스크린샷 |
 |------|------|----------|
-| 1    | ATM 기본 화면 | ![STEP1](./screenshots/step1.png) |
-| 5    | 입금 UI | ![STEP5](./screenshots/step5.png) |
-| 6    | 출금 UI | ![STEP6](./screenshots/step6.png) |
-| 8    | 입금 기능 실행 | ![STEP8](./screenshots/step8.png) |
-| 9    | 출금 기능 실행 | ![STEP9](./screenshots/step9.png) |
-| 10   | 저장/로드 Json | ![STEP10](./screenshots/step10.png) |
-| 11   | 로그인 UI | ![STEP11](./screenshots/step11.png) |
-| 12   | 회원가입 UI | ![STEP12](./screenshots/step12.png) |
-| 14   | 송금 UI | ![STEP14](./screenshots/step14.png) |
+| 1    | ATM 기본 화면 | <img width="875" height="489" alt="image" src="https://github.com/user-attachments/assets/534fff8e-3b87-45aa-b77c-203a6db16cf5" />|
+| 5    | 입금 UI | <img width="874" height="492" alt="image" src="https://github.com/user-attachments/assets/1e5350f2-0886-4975-b45c-8502e84387b2" />|
+| 6    | 출금 UI | <img width="876" height="489" alt="image" src="https://github.com/user-attachments/assets/7bb4a59d-ca29-41cf-ba89-7c29fc60779b" />|
+| 8    | 입금 기능 실행 | ![Deposit](https://github.com/user-attachments/assets/c5088b3c-93cd-46f0-8b09-8a122b81401e)|
+| 9    | 출금 기능 실행 |![Withdraw](https://github.com/user-attachments/assets/e579e3a7-a46d-4f99-8d97-facc63ee36e8)|
+| 10   | 저장/로드 Json |![SaveLoad](https://github.com/user-attachments/assets/b647a8cf-95b3-41cc-af75-fc80a75fa40d)|
+| 11   | 로그인 UI |![Login](https://github.com/user-attachments/assets/a7554894-f90f-4468-ab36-4178630464b0)|
+| 12   | 회원가입 UI |![SignUp](https://github.com/user-attachments/assets/40e63482-1c90-4ab3-a29e-717779c3cde9)|
+| 14   | 송금 UI | ![Sendmoney](https://github.com/user-attachments/assets/1d09a823-bda2-4c24-b268-bc9186f0a817)|
 
 ---
 
